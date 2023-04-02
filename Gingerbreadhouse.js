@@ -16,7 +16,7 @@ export const Gingerbreadhouse = (props) =>{
     }
 
 const addNewRoom = (room) =>  updateGingerbreadhouse({...gingerbreadhouse,rooms:[...gingerbreadhouse.rooms,room]})
-    
+ //This  document helps build a set up for a singular house and its room and area.   
 const rooms =() => {
     <ul>
         {Gingerbreadhouse.rooms.map((room,index)=>(
