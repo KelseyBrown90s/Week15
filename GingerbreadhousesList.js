@@ -33,6 +33,7 @@ export class GingerbreadhousesList extends React.Component {
                         />
                      
                 ))}
+                //This is the main building block component that helps us build our react app.
             </div>
         )
     }
