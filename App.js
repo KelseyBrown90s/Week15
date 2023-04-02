@@ -10,7 +10,7 @@ class App extends Component{
             <div>
                 
                 <GingerbreadhousesList />
-                
+                //This brings all the components from our other folder together
             </div>
         )
     }
