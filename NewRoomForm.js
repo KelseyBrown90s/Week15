@@ -40,3 +40,4 @@ export const NewRoomForm = (props) =>{
         </div>
     )
 };
+//This allows us to add a room and its name to a house we make.
